@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    font-size: 40px; color: white
+}
+
+.green-text {
+    color: #217a24;
+}
+
+.red-text {
+    color:#980000
+}
+
+.pink-bg {
+    background-color: pink;
+}
