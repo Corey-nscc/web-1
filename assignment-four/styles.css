@@ -1,0 +1,43 @@
+body {
+    background-color: #96b5c0;
+}
+
+.type1 {
+    font-family: "lavishly yours";
+}
+
+.type2 {
+    font-family: "mansalva"; font-weight: 600;
+}
+
+.type3 {
+    font-family: "ole"; letter-spacing: 69px
+}
+
+.type4 {
+    font-family: "chokokutai"; line-height: 5
+}
+
+.type5 {
+    font-family: "Jacquard 24"; font-size: 3em
+}
+
+.type6 {
+    font-family: "kings"; text-align: center
+}
+
+.type7 {
+    font-family: "geostar fill";
+}
+
+.type8 {
+    font-family: "Bonbon";
+}
+
+.type9 {
+    font-family: "playfair display";
+}
+
+.type10 {
+    font-family: "cormorant unicase";
+}
