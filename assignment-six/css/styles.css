@@ -1,0 +1,84 @@
+.outer-box-1 {
+    background-color: yellow;
+    height: 960px;
+    width: 690px;
+}
+
+.inner-box-a {
+    background-color: limegreen;
+    height: 190px;
+    width: 530px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.inner-inner-box-a, .inner-inner-box-b, .inner-inner-box-c, .inner-inner-box-d, .inner-inner-box-f {
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+}
+
+.inner-inner-box-a {
+    background-color: aqua;
+    float: left;
+}
+
+.inner-inner-box-b {
+    background-color: rosybrown;
+    float: right;
+}
+
+.inner-box-b {
+    background-color: cadetblue;
+    height: 360px;
+    width: 530px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+
+.inner-inner-box-c {
+    background-color: white;
+    float: left;
+}
+
+.inner-inner-box-d {
+    background-color: black;
+    float: right;
+    color: white
+}
+
+.inner-inner-box-e {
+    background-color: orange;
+    height: 150px;
+    width: 490px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: inline-end
+}
+
+.inner-box-c {
+    background-color: saddlebrown;
+    width: 530px;
+    height: 290px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px
+}
+
+.inner-inner-box-f {
+    background-color: rebeccapurple;
+    float: left;
+    margin-bottom: 0
+}
+
+p {
+margin: 20px;
+    padding-top: 20px
+}
+
+.w-text {
+    color: white;
+}
